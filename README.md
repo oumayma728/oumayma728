@@ -1,6 +1,6 @@
 ### Hi, I'm Oumayma jlejla 
 
-Software Engineer | Full-Stack Developer | AI Enthusiast
+Software Engineer | Full-Stack Developer
 
 💻 Passionate about building scalable web applications using .NET, React.js, and modern databases <br>
 🛠 Skilled in DevOps practices: CI/CD, Docker, Git, and automation. <br>
