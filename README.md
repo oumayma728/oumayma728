@@ -24,7 +24,7 @@ Software Engineer | Full-Stack Developer
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ## GitHub Activity
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oumayma728&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
