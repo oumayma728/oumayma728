@@ -4,7 +4,7 @@ Software Engineer | Full-Stack Developer
 
 💻 Passionate about building scalable web applications using .NET, React.js, and modern databases <br>
 🛠 Skilled in DevOps practices: CI/CD, Docker, Git, and automation. <br>
-🤖 Exploring AI/ML, Deep Learning. <br>
+🤖 Exploring AI <br>
 🚀 Always excited to collaborate on innovative projects. <br>
 
 ## Currently 
