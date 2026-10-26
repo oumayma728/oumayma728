@@ -7,7 +7,7 @@ I build web apps end to end and ship AI features to production.
 - 🚀 Built and deployed our internal intern-management CRM, used daily, with **task distribution powered by the Claude API**
 - 👩‍💻 Lead an intern cohort: task planning, code reviews, delivery
 - 🤖 Building with LLMs: RAG pipelines, multi-agent systems, Claude Code every day
-- 🎓 Engineering degree in Computer Science (evening classes, ITEAM University)
+- 🎓 Engineering degree in Computer Science (ITEAM University)
 
 ## Featured projects
 
