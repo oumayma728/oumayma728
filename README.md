@@ -15,8 +15,9 @@ I build web apps end to end and ship AI features to production.
 |---|---|---|
 | [recruiter_agency](https://github.com/oumayma728/recruiter_agency) | Multi-agent recruitment system with candidate-job matching | Python, FastAPI, React |
 | [PDF-RAG-assistant](https://github.com/oumayma728/PDF-RAG-assistant) | Chat with your PDFs using RAG and a local LLM | LangChain, Chroma, Ollama |
-| [BugWatch](https://github.com/oumayma728/Bug-Tracker) · [live](https://bug-tracker-kappa-weld.vercel.app) | Bug tracker with roles and action history | Next.js, NestJS, GitHub Actions |
+| [Dinari](https://github.com/oumayma728/dinari) · [live](https://dinari-beta.vercel.app/) | A personal finance tracker PWA built for Tunisian users
 | [IntelliTask](https://github.com/oumayma728/IntelliTask-) | Kanban with AI chatbot and Google Calendar sync | ASP.NET Core, React, Cypress |
+| [HTracker](https://github.com/oumayma728/HTracker) . [live](https://h-tracker-phi.vercel.app/login) | A simple daily habit tracker with streaks, a calendar, stats, and Journey: an AI-generated, step-by-step roadmap you unlock one step at a time | Next.js , PostgreSQL + Prisma, Better Auth, and Claude|
 | [CarthageLink](https://github.com/oumayma728/CarthageLink) | Industrial IoT monitoring platform | React, ASP.NET Core, MQTT, SignalR |
 
 ## Stack
